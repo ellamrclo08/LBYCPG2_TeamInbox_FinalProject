@@ -1,0 +1,986 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"product"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"pr",
+				"progress-bar"
+			],
+			[
+				"co",
+				"col-sm-2"
+			],
+			[
+				"im",
+				"img-fluid"
+			],
+			[
+				"c",
+				"col-sm-2"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"ra",
+				"razorpay_payment_status"
+			],
+			[
+				"raz",
+				"razorpay_payment_id"
+			],
+			[
+				"STAT",
+				"STATUS_CHOICES"
+			],
+			[
+				"F",
+				"FloatField"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"for",
+				"form-check"
+			],
+			[
+				"h",
+				"h5"
+			],
+			[
+				"pare",
+				"parentNode"
+			],
+			[
+				"inne",
+				"innerText"
+			],
+			[
+				"inner",
+				"innerText"
+			],
+			[
+				"toS",
+				"toString"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"d",
+				"d-grid"
+			],
+			[
+				"m",
+				"mb-0"
+			],
+			[
+				"lis",
+				"list-group"
+			],
+			[
+				"te",
+				"text-muted"
+			],
+			[
+				"b",
+				"btn"
+			],
+			[
+				"sc",
+				"srcset"
+			],
+			[
+				"ca",
+				"card-body"
+			],
+			[
+				"car",
+				"card"
+			],
+			[
+				"col",
+				"col-sm-8"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"passw",
+				"password-reset"
+			],
+			[
+				"pa",
+				"password-reset"
+			],
+			[
+				"i",
+				"iframe"
+			],
+			[
+				"col-s",
+				"col-sm-9"
+			],
+			[
+				"password",
+				"passwordchangedone"
+			],
+			[
+				"au",
+				"autocomplete"
+			],
+			[
+				"auto",
+				"autofocus"
+			],
+			[
+				"bt",
+				"btn-danger"
+			],
+			[
+				"ci",
+				"city"
+			],
+			[
+				"lo",
+				"locality"
+			],
+			[
+				"loca",
+				"locality"
+			],
+			[
+				"loc",
+				"locality"
+			],
+			[
+				"Cu",
+				"CustomerProfileForm"
+			],
+			[
+				"C",
+				"Customer"
+			],
+			[
+				"n",
+				"Norte"
+			],
+			[
+				"col-sm-",
+				"col-sm-6"
+			],
+			[
+				"Log",
+				"LoginForm"
+			],
+			[
+				"a",
+				"auth_view"
+			],
+			[
+				"Cus",
+				"CustomerRegistrationForm"
+			],
+			[
+				"con",
+				"contrib"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"ro",
+				"row-container"
+			],
+			[
+				"h2",
+				"h2"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Prod",
+				"Product"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"an",
+				"animation-name"
+			],
+			[
+				"animat",
+				"animation-delay"
+			],
+			[
+				"H",
+				"h2"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"me",
+				"meta"
+			],
+			[
+				"tex",
+				"text-muted"
+			],
+			[
+				"gre",
+				"get_object_or_404"
+			],
+			[
+				"as",
+				"as_view"
+			],
+			[
+				"Im",
+				"Image"
+			],
+			[
+				"Pr",
+				"ProfileUpdateForm"
+			],
+			[
+				"User",
+				"UserUpdateForm"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"user",
+				"user_views"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "urls.py",
+			"redo_stack":
+			[
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAC4EAAAAAAAALgQAAAAAAAABAAAALA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAvBAAAAAAAAC8EAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					12,
+					1,
+					"paste",
+					null,
+					"AQAAANEDAAAAAAAA0QMAAAAAAABdAAAAcGF0aCgnZmF2aWNvbi5pY28nLCBSZWRpcmVjdFZpZXcuYXNfdmlldyh1cmw9c3RhdGljZmlsZXNfc3RvcmFnZS51cmwoJ2Zhdmljb24vZmF2aWNvbi5pY28nKSkp",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAuBAAAAAAAAC4EAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAM0DAAAAAAAAzQMAAAAAAAAEAAAAICAgIMwDAAAAAAAAzAMAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADRAwAAAAAAANEDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"unindent",
+					null,
+					"AwAAAHQAAAAAAAAAdQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACmAAAAAAAAAB0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					3,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAACpAAAAZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcGF0aAogZnJvbSAuIGltcG9ydCB2aWV3cwogZnJvbSBkamFuZ28uY29udHJpYi5zdGF0aWNmaWxlcy5zdG9yYWdlIGltcG9ydCBzdGF0aWNmaWxlc19zdG9yYWdlCiBmcm9tIGRqYW5nby52aWV3cy5nZW5lcmljLmJhc2UgaW1wb3J0IFJlZGlyZWN0Vmlldw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACpAAAAAAAAAKkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAAEAAAAAAAAAAQAAAAAAAAABAAAACgAAAAAAAAAAAAAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAA8L8"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 807,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Ella Marcelo/Documents/django_proj/project/app/urls.py",
+			"settings":
+			{
+				"buffer_size": 3029,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAACsBAAAAAAAALAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAArAQAAAAAAACsBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AQAAACwBAAAAAAAAowEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAsAQAAAAAAACwBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"reindent",
+					null,
+					"AQAAAKcKAAAAAAAAqwoAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACnCgAAAAAAAKcKAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BgAAAKsKAAAAAAAArAoAAAAAAAAAAAAArAoAAAAAAACwCgAAAAAAAAAAAACnCgAAAAAAAKcKAAAAAAAABAAAACAgICCsCgAAAAAAAK0KAAAAAAAAAAAAAK0KAAAAAAAAsQoAAAAAAAAAAAAAqAoAAAAAAACoCgAAAAAAAAQAAAAgICAg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACrCgAAAAAAAKsKAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AQAAAK0KAAAAAAAACgsAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACtCgAAAAAAAK0KAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKcKAAAAAAAApwoAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACoCgAAAAAAAKgKAAAAAAAAAAAAAACohUA"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "\n,"
+					},
+					"AwAAAAkLAAAAAAAACgsAAAAAAAAAAAAACgsAAAAAAAAOCwAAAAAAAAAAAAAOCwAAAAAAAA8LAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAJCwAAAAAAAAkLAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					3,
+					"left_delete",
+					null,
+					"AwAAAA4LAAAAAAAADgsAAAAAAAABAAAALAoLAAAAAAAACgsAAAAAAAAEAAAAICAgIAkLAAAAAAAACQsAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAPCwAAAAAAAA8LAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAAkLAAAAAAAACgsAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAJCwAAAAAAAAkLAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAAoLAAAAAAAACwsAAAAAAAAAAAAACwsAAAAAAAAPCwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAKCwAAAAAAAAoLAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					22,
+					1,
+					"unindent",
+					null,
+					"AgAAACwBAAAAAAAALAEAAAAAAAABAAAAIG8BAAAAAAAAbwEAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACjAQAAAAAAAC0BAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/Ella Marcelo/Documents/django_proj/project/app/views.py",
+			"settings":
+			{
+				"buffer_size": 5885,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					2,
+					"left_delete",
+					null,
+					"AgAAANcBAAAAAAAA1wEAAAAAAAAPAAAAQGxvZ2luX3JlcXVpcmVk1gEAAAAAAADWAQAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAA5gEAAAAAAADXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					2,
+					"left_delete",
+					null,
+					"AgAAABQCAAAAAAAAFAIAAAAAAAAPAAAAQGxvZ2luX3JlcXVpcmVkEwIAAAAAAAATAgAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAIwIAAAAAAAAUAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					2,
+					"left_delete",
+					null,
+					"AgAAAFMCAAAAAAAAUwIAAAAAAAAPAAAAQGxvZ2luX3JlcXVpcmVkUgIAAAAAAABSAgAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAYgIAAAAAAABTAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHoDAAAAAAAAegMAAAAAAAAzAAAACkBtZXRob2RfZGVjb3JhdG9yKGxvZ2luX3JlcXVpcmVkLCBuYW1lPSdkaXNwYXRjaCcpeQMAAAAAAAB5AwAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAArQMAAAAAAAB6AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAHkDAAAAAAAAegMAAAAAAAAAAAAAegMAAAAAAAB8AwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeQMAAAAAAAB5AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					2,
+					"left_delete",
+					null,
+					"AwAAAHAEAAAAAAAAcAQAAAAAAAAyAAAAQG1ldGhvZF9kZWNvcmF0b3IobG9naW5fcmVxdWlyZWQsIG5hbWU9J2Rpc3BhdGNoJyl6AwAAAAAAAHoDAAAAAAAAAgAAAAkJbQQAAAAAAABtBAAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAogQAAAAAAABwBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					2,
+					"left_delete",
+					null,
+					"AgAAAA0FAAAAAAAADQUAAAAAAAAyAAAAQG1ldGhvZF9kZWNvcmF0b3IobG9naW5fcmVxdWlyZWQsIG5hbWU9J2Rpc3BhdGNoJykMBQAAAAAAAAwFAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAPwUAAAAAAAANBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPMGAAAAAAAA8wYAAAAAAAAyAAAAQG1ldGhvZF9kZWNvcmF0b3IobG9naW5fcmVxdWlyZWQsIG5hbWU9J2Rpc3BhdGNoJynyBgAAAAAAAPIGAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAJQcAAAAAAADzBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					2,
+					"left_delete",
+					null,
+					"AgAAACsKAAAAAAAAKwoAAAAAAAAPAAAAQGxvZ2luX3JlcXVpcmVkKgoAAAAAAAAqCgAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAOgoAAAAAAAArCgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					2,
+					"left_delete",
+					null,
+					"AgAAAKwKAAAAAAAArAoAAAAAAAAyAAAAQG1ldGhvZF9kZWNvcmF0b3IobG9naW5fcmVxdWlyZWQsIG5hbWU9J2Rpc3BhdGNoJymrCgAAAAAAAKsKAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAA3goAAAAAAACsCgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					2,
+					"left_delete",
+					null,
+					"AgAAALMNAAAAAAAAsw0AAAAAAAAPAAAAQGxvZ2luX3JlcXVpcmVksg0AAAAAAACyDQAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAwg0AAAAAAACzDQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					2,
+					"left_delete",
+					null,
+					"AgAAAIQOAAAAAAAAhA4AAAAAAAAPAAAAQGxvZ2luX3JlcXVpcmVkgw4AAAAAAACDDgAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAkw4AAAAAAACEDgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJYPAAAAAAAAlg8AAAAAAAAyAAAAQG1ldGhvZF9kZWNvcmF0b3IobG9naW5fcmVxdWlyZWQsIG5hbWU9J2Rpc3BhdGNoJymVDwAAAAAAAJUPAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAyA8AAAAAAACWDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAMRAAAAAAAAAxEAAAAAAAAPAAAAQGxvZ2luX3JlcXVpcmVkAhEAAAAAAAACEQAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAEhEAAAAAAAADEQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAATAAAAAAAAABMAAAAAAAAPAAAAQGxvZ2luX3JlcXVpcmVk/xIAAAAAAAD/EgAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAADxMAAAAAAAAAEwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Ella Marcelo/Documents/django_proj/project",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/static",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/static/app",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/static/app/js",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/project"
+	],
+	"file_history":
+	[
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/models.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/urls.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/base.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/views.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/address.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/search.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/home.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/admin.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/about.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/profile.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/addtocart.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/checkout.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/orders.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/payment_selection.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/static/app/js/myscript.js",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/forms.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/productdetail.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/password_reset_complete.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/password_reset_confirm.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/password_reset_done.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/password_reset.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/project/settings.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/updateAddress.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/changepassword.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/passwordchangedone.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/customerregistration.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/category.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/login.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/contact.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/media/product/acoustic_gxh8t5Y.png",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/media/product/acoustic_aPaxMOX.png",
+		"/C/Users/Ella Marcelo/Documents/django_proj/env/Lib/site-packages/django/db/backends/sqlite3/base.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/env/Lib/site-packages/django/db/backends/sqlite3/operations.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/env/Lib/site-packages/django/db/backends/sqlite3/introspection.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/env/Lib/site-packages/django/db/backends/sqlite3/creation.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/env/Lib/site-packages/django/db/backends/sqlite3/features.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/env/Lib/site-packages/django/db/backends/sqlite3/client.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/env/Lib/site-packages/django/db/backends/utils.py",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/static/app/css/style.css",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/static/app/js/owl.carousel.min.js",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/templates/app/index.html",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/app/static/app/css/owl.carousel.min.css",
+		"/D/Downloads/dj-ecom/dj-ecom/images/css/all.min.css",
+		"/C/Users/Ella Marcelo/Documents/django_proj/project/project/urls.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/templates/users/login.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/templates/users/password_reset_complete.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/lab5/urls.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/templates/users/password_reset_done.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/lab5/settings.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/models.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/templates/users/password_reset_confirm.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/templates/users/password_reset.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/templates/blog/home.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/urls.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/templates/blog/post_detail.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/templates/blog/user_posts.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/views.py",
+		"/D/Documents/Code Snippets by Corey Schafer/code_snippets-master/Django_Blog/11-Pagination/django_project/blog/urls.py",
+		"/D/Documents/Code Snippets by Corey Schafer/code_snippets-master/Django_Blog/11-Pagination/django_project/blog/templates/blog/home.html",
+		"/D/Documents/Code Snippets by Corey Schafer/code_snippets-master/Django_Blog/11-Pagination/django_project/blog/views.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/posts.json",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/templates/blog/base.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/templates/blog/post_confirm_delete.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/models.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/templates/blog/post_form.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/forms.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/views.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/templates/users/profile.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/apps.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/signals.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/admin.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/templates/users/register.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/users/templates/users/logout.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/admin.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/templates/blog/about.html",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/static/blog/main.css",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/blog/apps.py",
+		"/C/Users/Ella Marcelo/Documents/Django/lab5/manage.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"totalamount",
+			"Order placeds",
+			"5",
+			"ML"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Ella Marcelo/Documents/django_proj/project/app/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1491,
+								1491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Ella Marcelo/Documents/django_proj/project/app/views.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4863,
+								4863
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1980.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 44.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
