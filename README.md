@@ -1,5 +1,9 @@
 # LBYCPG2_TeamInbox_FinalProject
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+OVERVIEW:
+This program is a simple website resembling a Music Store site that will allow users to create an account, login, and view different items as well as add them to a
+their cart if they so desire. A database keeps track of all the customer's using the website from their addresses to the items in their cart. 
+
 This program and project has been made by Team Inbox, composed of: 
 Mariella Anne M. Marcelo 
 Gabriel I. Medina 
@@ -7,7 +11,7 @@ Gabriel I. Medina
 
 
 In order to properly run the website, you must perform the following steps. Follow them precisely in order to ensure that the program will run fine! 
-Also make sure that you have a working version of python with pip, as well as django as the program was built using a django framework. 
+Also make sure that you have a working version of python with pip, as well as django as the program was built using a django framework. Please refer to the Django website in order to properly install Django onto your device.
 
 1.) Downlaod the repository as a ZIP file.
 
@@ -30,4 +34,6 @@ cd LBYCPG2_TeamInbox_Project-main
 pip install -r requirements.txt
 
 10.) After this, the program can now be run using the following command: python manage.py runserver 
+
+This program was tested in a Windows operating system.
 
