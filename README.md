@@ -5,7 +5,9 @@ This program is a simple website resembling a Music Store site that will allow u
 their cart if they so desire. A database keeps track of all the customer's using the website from their addresses to the items in their cart. 
 
 This program and project has been made by Team Inbox, composed of: 
+
 Mariella Anne M. Marcelo 
+
 Gabriel I. Medina 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
